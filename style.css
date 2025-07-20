@@ -61,7 +61,7 @@ body {
     padding: 50px 8%;
     background: 
         linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url('./Assests/Quarry\ 2.png') no-repeat center center;
+        url('Assests/Quarry\ 2.png') no-repeat center center;
     background-size: cover;
     color: white;
     text-align: center;
